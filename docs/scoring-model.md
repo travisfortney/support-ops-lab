@@ -1,6 +1,6 @@
 # Support Health Scoring Model
 
-This is a deliberately small fake-data model. It is meant for testing ideas, not judging real people.
+This is a small fake-data model for testing ideas. It is not a people judge, a leaderboard, or a magic truth machine.
 
 ## Signals
 
@@ -23,3 +23,4 @@ This is a deliberately small fake-data model. It is meant for testing ideas, not
 - Track risk movement over time.
 - Compare load by owner without turning it into a leaderboard.
 - Add fake quality-review notes for coaching examples.
+- Add a small fixture that mimics a clean week, a messy week, and a sneaky-bad week.
